@@ -1,12 +1,12 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+How to use react-maps 
+1. npm create vite@ latest . (this adds a vite project to the current directory) and follow the steps.
+2. npm install react@18.2.0 react-dom@18.2.0
+    npm install react-simple-maps@3.0.0
+   This will change the react compatable to the react-maps.
 
-Currently, two official plugins are available:
+   IF you are cloning or downloading and using this appliation
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+   1. Clone.download.
+   2. cd project folder.
+   3. npm install.
