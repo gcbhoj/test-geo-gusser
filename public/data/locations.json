@@ -1,0 +1,8 @@
+[
+  { "country": "Haridwar", "image":"hello", "coordinates": [78.1642, 29.9457] },
+  { "country": "France", "coordinates": [2.2137, 46.2276] },
+  { "country": "Brazil", "coordinates": [-51.9253, -14.235] },
+  { "country": "India", "coordinates": [78.9629, 20.5937] },
+  { "country": "Canada", "coordinates": [-106.3468, 56.1304] },
+  { "country": "Australia", "coordinates": [133.7751, -25.2744] }
+]
